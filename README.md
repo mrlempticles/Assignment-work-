@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Full-Stack Scalable REST API & Dashboard
 
 A production-ready full-stack application built for the Software Developer Intern assignment.
@@ -58,3 +59,7 @@ While this project was built within a 3-day constraint and modified to use SQLit
 3. **Microservices Readiness**: The Controller-Service-Repository pattern (currently implemented as Controller-Prisma) decouples routing from business logic, making it easy to extract the Product or Auth modules into standalone microservices.
 4. **Load Balancing**: Because JWT authentication is stateless (using HttpOnly cookies rather than server-side sessions), the backend can be horizontally scaled behind a load balancer (e.g., NGINX, AWS ALB) immediately.
 5. **Containerization**: The backend and frontend are structured separately, allowing them to be easily containerized via Docker and deployed to Kubernetes or AWS ECS.
+=======
+# Assignment-work-
+for demo basis level 0 project idea
+>>>>>>> 5fc7b1cd389e4e4b808ab92bbc343f54e413d4e8
